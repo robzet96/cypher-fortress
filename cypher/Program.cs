@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("What do you want to do?");
+char choice = char.Parse(Console.ReadLine());
+string text = Console.ReadLine();

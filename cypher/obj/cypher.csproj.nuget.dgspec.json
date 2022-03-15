@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pjace\\source\\repos\\cypher\\cypher\\cypher.csproj": {}
+    "C:\\Users\\pjace\\source\\repos\\cypher-fortress\\cypher\\cypher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pjace\\source\\repos\\cypher\\cypher\\cypher.csproj": {
+    "C:\\Users\\pjace\\source\\repos\\cypher-fortress\\cypher\\cypher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pjace\\source\\repos\\cypher\\cypher\\cypher.csproj",
+        "projectUniqueName": "C:\\Users\\pjace\\source\\repos\\cypher-fortress\\cypher\\cypher.csproj",
         "projectName": "cypher",
-        "projectPath": "C:\\Users\\pjace\\source\\repos\\cypher\\cypher\\cypher.csproj",
+        "projectPath": "C:\\Users\\pjace\\source\\repos\\cypher-fortress\\cypher\\cypher.csproj",
         "packagesPath": "C:\\Users\\pjace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pjace\\source\\repos\\cypher\\cypher\\obj\\",
+        "outputPath": "C:\\Users\\pjace\\source\\repos\\cypher-fortress\\cypher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

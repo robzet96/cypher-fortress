@@ -1,0 +1,15 @@
+C:\Users\pjace\source\repos\cypher-fortress\cypher\bin\Debug\net6.0\cypher.exe
+C:\Users\pjace\source\repos\cypher-fortress\cypher\bin\Debug\net6.0\cypher.deps.json
+C:\Users\pjace\source\repos\cypher-fortress\cypher\bin\Debug\net6.0\cypher.runtimeconfig.json
+C:\Users\pjace\source\repos\cypher-fortress\cypher\bin\Debug\net6.0\cypher.dll
+C:\Users\pjace\source\repos\cypher-fortress\cypher\bin\Debug\net6.0\cypher.pdb
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\cypher.csproj.AssemblyReference.cache
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\cypher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\cypher.AssemblyInfoInputs.cache
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\cypher.AssemblyInfo.cs
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\cypher.csproj.CoreCompileInputs.cache
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\cypher.dll
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\refint\cypher.dll
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\cypher.pdb
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\cypher.genruntimeconfig.cache
+C:\Users\pjace\source\repos\cypher-fortress\cypher\obj\Debug\net6.0\ref\cypher.dll

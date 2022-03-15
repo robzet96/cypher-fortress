@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NGjTZZ/FG8h5rdqpIvqVhiyXgAA/y3Aa7pog1RrWoCSiIlRcEQcYF2roGC9Grjz/sOmFWybpaOeNbJApOqplUA==",
+  "dgSpecHash": "NXFC9y0FDFdUNUzM5SPGqq3juSZHyne/6TUjo+ZtWtCksJuGCL0AA0fuObEU4QHsjYK31/eJyRhY1yTFP6fMgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pjace\\source\\repos\\cypher\\cypher\\cypher.csproj",
+  "projectFilePath": "C:\\Users\\pjace\\source\\repos\\cypher-fortress\\cypher\\cypher.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
